@@ -5,11 +5,8 @@ It showcases projects, skills, and contact information, and is optimized for dep
 
 ## 📸 Demo
 
-🔗 [Live Site →](https://your-deployed-link.vercel.app)  
+🔗 [Live Site →](https://portfolio-flax-sigma-62.vercel.app/)
 *(Replace with actual deployed link)*
-
-![Portfolio Screenshot](./screenshot.png)  
-*(Add a screenshot named `screenshot.png` in your repo root)*
 
 ---
 
