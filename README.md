@@ -6,7 +6,6 @@ It showcases projects, skills, and contact information, and is optimized for dep
 ## 📸 Demo
 
 🔗 [Live Site →](https://portfolio-flax-sigma-62.vercel.app/)
-*(Replace with actual deployed link)*
 
 ---
 
