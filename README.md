@@ -38,37 +38,36 @@ It showcases projects, skills, and contact information, and is optimized for dep
 ## 📂 Folder Structure
 portfolio/
 ├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── assets/                 # Static images or public files
-│       └── profile.jpg
+│ ├── index.html
+│ ├── favicon.ico
+│ └── assets/ # Static images or public files
+│ └── profile.jpg
 │
 ├── src/
-│   ├── assets/                 # Local images, icons, animations
-│   │   └── myphoto.png
-│   │
-│   ├── components/             # Reusable UI components
-│   │   ├── Navbar.jsx
-│   │   ├── Footer.jsx
-│   │   ├── ProjectCard.jsx
-│   │   └── ScrollToTop.jsx
-│   │
-│   ├── pages/                  # Main sections of the portfolio
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Projects.jsx
-│   │   ├── Skills.jsx
-│   │   ├── Contact.jsx
-│   │   └── NotFound.jsx
-│   │
-│   ├── App.js                  # Main app component (routing, layout)
-│   ├── index.js                # Entry point
-│   └── App.css                 # Custom styles (optional, with Tailwind)
+│ ├── assets/ # Local images, icons, animations
+│ │ └── myphoto.png
+│ │
+│ ├── components/ # Reusable UI components
+│ │ ├── Navbar.jsx
+│ │ ├── Footer.jsx
+│ │ ├── ProjectCard.jsx
+│ │ └── ScrollToTop.jsx
+│ │
+│ ├── pages/ # Main sections of the portfolio
+│ │ ├── Home.jsx
+│ │ ├── About.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Contact.jsx
+│ │ └── NotFound.jsx
+│ │
+│ ├── App.js # Main app component (routing, layout)
+│ ├── index.js # Entry point
+│ └── App.css # Custom styles (optional, with Tailwind)
 │
 ├── .gitignore
 ├── package.json
 ├── postcss.config.js
 ├── tailwind.config.js
 ├── README.md
-└── screenshot.png              # Project preview for GitHub
-
+└── screenshot.png # Project preview for GitHub
