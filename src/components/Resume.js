@@ -38,7 +38,7 @@ const Resume = () => (
     {/* Resume Download Button */}
     <div className="text-center mt-8">
       <a
-        href="/public\Yakanna_kadem_Resume.pdf" // Make sure to place your resume in public/ folder
+        href="/Yakanna_kadem_Resume.pdf" // Make sure to place your resume in public/ folder
         download
         className="inline-block bg-yellow-400 hover:bg-yellow-500 text-gray-900 font-semibold px-8 py-3 rounded-lg shadow-lg transition duration-300"
       >
